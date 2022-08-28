@@ -1,2 +1,2 @@
 # wine-dataset-ml
-Predictive model for the kaggle wine dataset
+Predictive model for kaggle wine dataset
